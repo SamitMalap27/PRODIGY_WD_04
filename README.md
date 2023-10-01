@@ -2,4 +2,4 @@
 Weather Application using API 
 
 Snapshot of the Application:
-![Weather](https://github.com/SamitMalap27/PRODIGY_WD_04/assets/121955319/3744bbfa-1492-4ffa-a200-a65d150f71e3)
+![w](https://github.com/SamitMalap27/PRODIGY_WD_04/assets/121955319/f5b0d5d3-5143-458e-a07a-7ceceef2d8ac)
